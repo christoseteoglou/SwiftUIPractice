@@ -15,6 +15,8 @@
 		922BFDC629643FD60050F732 /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922BFDC529643FD60050F732 /* AccountView.swift */; };
 		922BFDC829655F510050F732 /* HexagonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922BFDC729655F510050F732 /* HexagonView.swift */; };
 		922BFDCA296563900050F732 /* BlobView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922BFDC9296563900050F732 /* BlobView.swift */; };
+		924DD1E429658F3B00431736 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924DD1E329658F3B00431736 /* TabBar.swift */; };
+		924DD1E62965AA8700431736 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924DD1E52965AA8700431736 /* Tab.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		922BFDC529643FD60050F732 /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		922BFDC729655F510050F732 /* HexagonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonView.swift; sourceTree = "<group>"; };
 		922BFDC9296563900050F732 /* BlobView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlobView.swift; sourceTree = "<group>"; };
+		924DD1E329658F3B00431736 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		924DD1E52965AA8700431736 /* Tab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				922BFDB529640E240050F732 /* SwiftUIAppApp.swift */,
 				922BFDB729640E240050F732 /* ContentView.swift */,
 				922BFDC529643FD60050F732 /* AccountView.swift */,
+				924DD1E329658F3B00431736 /* TabBar.swift */,
+				924DD1E52965AA8700431736 /* Tab.swift */,
 				922BFDC9296563900050F732 /* BlobView.swift */,
 				922BFDC729655F510050F732 /* HexagonView.swift */,
 				922BFDC3296437EF0050F732 /* Styles.swift */,
@@ -152,9 +158,11 @@
 				922BFDC629643FD60050F732 /* AccountView.swift in Sources */,
 				922BFDC829655F510050F732 /* HexagonView.swift in Sources */,
 				922BFDC4296437EF0050F732 /* Styles.swift in Sources */,
+				924DD1E62965AA8700431736 /* Tab.swift in Sources */,
 				922BFDCA296563900050F732 /* BlobView.swift in Sources */,
 				922BFDB829640E240050F732 /* ContentView.swift in Sources */,
 				922BFDB629640E240050F732 /* SwiftUIAppApp.swift in Sources */,
+				924DD1E429658F3B00431736 /* TabBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
